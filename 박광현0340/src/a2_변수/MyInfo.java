@@ -66,7 +66,7 @@ public class MyInfo {
 		System.out.print("생년월일: ");
 		System.out.print("년: ");
 		System.out.print(year);
-		System.out.print("월: ")
+		System.out.print("월: ");
 		System.out.print(month);
 		System.out.print("이름: ");
 		System.out.println(name);
